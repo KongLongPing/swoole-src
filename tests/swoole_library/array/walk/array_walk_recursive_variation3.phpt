@@ -40,7 +40,7 @@ $input_values = [
     /*1*/
     [[1, 0, -10], [023, -041], [0x5A, 0X1F, -0x6E]],
 
-    // float value
+    // float values
     [[3.4, 0.8, -2.9], [6.25e2, 8.20E-3]],
 
     // string values
